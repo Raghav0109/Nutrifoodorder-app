@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022084491094",
+    "project_id": "nutri-order",
+    "storage_bucket": "nutri-order.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022084491094:android:d51d51c511c1aa4ebf18f7",
+        "android_client_info": {
+          "package_name": "com.example.nutriorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022084491094-t5iil0bieofsjk43vj8npdkgod4aqdk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPCXYq8mQCFcrpze69O-nTuIcxc32vBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022084491094-t5iil0bieofsjk43vj8npdkgod4aqdk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
